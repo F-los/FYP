@@ -1,8 +1,8 @@
 # FYP
 
-### Download the Node.js
+### Download Node.js
 
 ### open up sandbox folder and type in commends below
 
-### npm i
-### npm run dev
+##### npm i
+##### npm run dev
